@@ -1,0 +1,13 @@
+C:\Users\ssatpathy\source\repos\TSOpsInterview\TSOpsInterview\bin\Debug\netcoreapp3.1\TSOpsInterview.exe
+C:\Users\ssatpathy\source\repos\TSOpsInterview\TSOpsInterview\bin\Debug\netcoreapp3.1\TSOpsInterview.deps.json
+C:\Users\ssatpathy\source\repos\TSOpsInterview\TSOpsInterview\bin\Debug\netcoreapp3.1\TSOpsInterview.runtimeconfig.json
+C:\Users\ssatpathy\source\repos\TSOpsInterview\TSOpsInterview\bin\Debug\netcoreapp3.1\TSOpsInterview.runtimeconfig.dev.json
+C:\Users\ssatpathy\source\repos\TSOpsInterview\TSOpsInterview\bin\Debug\netcoreapp3.1\TSOpsInterview.dll
+C:\Users\ssatpathy\source\repos\TSOpsInterview\TSOpsInterview\bin\Debug\netcoreapp3.1\TSOpsInterview.pdb
+C:\Users\ssatpathy\source\repos\TSOpsInterview\TSOpsInterview\obj\Debug\netcoreapp3.1\TSOpsInterview.csprojAssemblyReference.cache
+C:\Users\ssatpathy\source\repos\TSOpsInterview\TSOpsInterview\obj\Debug\netcoreapp3.1\TSOpsInterview.AssemblyInfoInputs.cache
+C:\Users\ssatpathy\source\repos\TSOpsInterview\TSOpsInterview\obj\Debug\netcoreapp3.1\TSOpsInterview.AssemblyInfo.cs
+C:\Users\ssatpathy\source\repos\TSOpsInterview\TSOpsInterview\obj\Debug\netcoreapp3.1\TSOpsInterview.csproj.CoreCompileInputs.cache
+C:\Users\ssatpathy\source\repos\TSOpsInterview\TSOpsInterview\obj\Debug\netcoreapp3.1\TSOpsInterview.dll
+C:\Users\ssatpathy\source\repos\TSOpsInterview\TSOpsInterview\obj\Debug\netcoreapp3.1\TSOpsInterview.pdb
+C:\Users\ssatpathy\source\repos\TSOpsInterview\TSOpsInterview\obj\Debug\netcoreapp3.1\TSOpsInterview.genruntimeconfig.cache
